@@ -8,4 +8,4 @@
 # test2.py : Từ ma trận number_bought, biến đổi được thành ma trận matrix_bought và lưu vào file matrix_bought.csv. Vì quá trình xử lý rất mất thời gian và file quá lớn nên ta có thể lấy tại địa chỉ: https://drive.google.com/open?id=1vh3ecImBt7QP7WaeCAUqSQDuiIfUMbmm
 # test10.py : Từ ma trận matrix_bought, ta tính được khoảng cách giữa các user và được ma trận data_user_base_frame và lưu vào file data_user_base_frame.csv
 # test11.py : Từ ma trận data_user_base_frame, ta tìm được danh sách các user có sở thích giống nhau nhất và được ma trận user_neighbor và lưu vào file user_neighbor.csv
-# test15.py : Đưa ra danh sách 20 s
+# test15.py : Đưa ra danh sách 20 sản phẩm gợi ý cho user_id 
